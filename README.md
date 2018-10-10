@@ -12,7 +12,7 @@ Experienced writer skilled in research, planning, drafting and collaboration. Ef
 * RoboHelp
 * WebWorks
 * HTML5
-* [markdown](techwriter/samples.md)
+* [markdown](https://susschwa.github.io/techwriter/samples)
 
 ### Education
 
