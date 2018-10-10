@@ -1,4 +1,4 @@
-## S. A. Schwartz - Technical Writer
+## S. A. Schwartz
 
 Experienced writer skilled in research, planning, drafting and collaboration. Effective communicator focusing on accuracy, readability, usability, and efficiency, to meet corporate and user objectives.
 
