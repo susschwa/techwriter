@@ -19,6 +19,8 @@ Experienced writer skilled in research, planning, drafting and collaboration. Ef
 * Technical Writing Certificate, AUP, Paris 2001 
 * BA History of Art, [University of Michigan](https://www.umich.edu/), 1996
 
+### Examples
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
