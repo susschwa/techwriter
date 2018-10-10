@@ -8,10 +8,10 @@ Experienced writer skilled in research, planning, drafting and collaboration. Ef
 
 ### Tools
 
-FrameMaker
-RoboHelp
-WebWorks
-HTML5
+*FrameMaker
+*RoboHelp
+*WebWorks
+*HTML5
 
 ### Education
 
