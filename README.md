@@ -1,39 +1,22 @@
 ## S. A. Schwartz - Technical Writer
 
-Experienced writer skilled in: research, planning, collaboration (with SMEs, Trainers, other writers). Effective communicator focusing on accuracy, validity, readability, usability, and efficiency to meet corporate, user, trainer, and student objectives.
-
-You can use the [editor on GitHub](https://github.com/susschwa/techwriter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experienced writer skilled in research, planning, drafting and collaboration. Effective communicator focusing on accuracy, readability, usability, and efficiency, to meet corporate and user objectives.
 
 ### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+15 years experience documenting financial software
 
 ### Tools
 
+FrameMaker
+RoboHelp
+WebWorks
+HTML5
 
 ### Education
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susschwa/techwriter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Technical Writing Certificate, AUP, Paris 2001 
+* BA History of Art, [University of Michigan](https://www.umich.edu/), 1996
 
 ### Support or Contact
 
