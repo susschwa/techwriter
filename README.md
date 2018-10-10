@@ -1,19 +1,22 @@
-## Welcome to GitHub Pages
+## S. A. Schwartz - Technical Writer
+
+Experienced writer skilled in: research, planning, collaboration (with SMEs, Trainers, other writers). Effective communicator focusing on accuracy, validity, readability, usability, and efficiency to meet corporate, user, trainer, and student objectives.
 
 You can use the [editor on GitHub](https://github.com/susschwa/techwriter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Tools
+
+
+### Education
 
 - Bulleted
 - List
